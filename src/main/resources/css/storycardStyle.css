@@ -1,0 +1,19 @@
+.card{
+    -fx-border-color: #000;
+    -fx-border-radius: 5;
+}
+
+.date{
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+}
+
+.storytitle{
+    -fx-font-weight: bold;
+    -fx-font-size: 18px;
+}
+
+.readmorebutton{
+    -fx-background-color: #8DECB4;
+    -fx-text-fill: #fff;
+}

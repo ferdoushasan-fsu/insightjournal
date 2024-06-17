@@ -1,0 +1,11 @@
+.title{
+    -fx-font-family: Outfit;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.saveButton{
+    -fx-background-color: #5AB2FF;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+}
